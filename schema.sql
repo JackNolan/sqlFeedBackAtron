@@ -16,7 +16,7 @@ CREATE TABLE issues
 	id INTEGER PRIMARY KEY,
 	author_id INTEGER NOT NULL,
 	status_id INTEGER NOT NULL,
-	created_at INTEGER NOT NULL,
+	created_at DATETIME NOT NULL,
 	content VARCHAR(255)
 };
 
