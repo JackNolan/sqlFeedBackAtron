@@ -1,0 +1,11 @@
+insert into an issue
+new status- 
+self solve - self insert solution
+open status-
+user submit - 
+author accept - 
+instructor needed - 
+instructor solved-
+
+- see all issues by status
+- count by status
